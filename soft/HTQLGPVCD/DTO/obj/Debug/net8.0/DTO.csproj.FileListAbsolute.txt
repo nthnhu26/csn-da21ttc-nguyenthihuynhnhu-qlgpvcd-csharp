@@ -1,0 +1,12 @@
+D:\DOANCSN\COSONGANH\soft\HTQLGPVCD\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\DOANCSN\COSONGANH\soft\HTQLGPVCD\DTO\bin\Debug\net8.0\DTO.dll
+D:\DOANCSN\COSONGANH\soft\HTQLGPVCD\DTO\bin\Debug\net8.0\DTO.pdb
+D:\DOANCSN\COSONGANH\soft\HTQLGPVCD\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOANCSN\COSONGANH\soft\HTQLGPVCD\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\DOANCSN\COSONGANH\soft\HTQLGPVCD\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\DOANCSN\COSONGANH\soft\HTQLGPVCD\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\DOANCSN\COSONGANH\soft\HTQLGPVCD\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+D:\DOANCSN\COSONGANH\soft\HTQLGPVCD\DTO\obj\Debug\net8.0\DTO.dll
+D:\DOANCSN\COSONGANH\soft\HTQLGPVCD\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\DOANCSN\COSONGANH\soft\HTQLGPVCD\DTO\obj\Debug\net8.0\DTO.pdb
+D:\DOANCSN\COSONGANH\soft\HTQLGPVCD\DTO\obj\Debug\net8.0\ref\DTO.dll
