@@ -1,0 +1,214 @@
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\GUI.exe.config
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\GUI.exe
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\GUI.pdb
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\obj\Debug\GUI.fGiangVien.resources
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\obj\Debug\GUI.fHoatDong.resources
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\obj\Debug\GUI.fTaiKhoan.resources
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\obj\Debug\GUI.fTrangChu.resources
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\obj\Debug\GUI.exe
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\obj\Debug\GUI.pdb
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\obj\Debug\GUI.fDangNhap.resources
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\obj\Debug\GUI.fCapNhatMatKhau.resources
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\obj\Debug\GUI.fDangKyHoatDong.resources
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\obj\Debug\GUI.fQuanLyHoatDong.resources
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\BLL.dll
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\DTO.dll
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\DAL.dll
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\BLL.pdb
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\DTO.pdb
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\DAL.pdb
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\obj\Debug\GUI.fMinhChung.resources
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\obj\Debug\GUI.fNguoiDung.resources
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\EPPlus.dll
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\EPPlus.Interfaces.dll
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\EPPlus.System.Drawing.dll
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\EPPlus.xml
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Auth.dll
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Core.dll
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Google.Apis.dll
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Drive.v3.dll
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Google.Apis.PlatformServices.dll
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Newtonsoft.Json.dll
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Google.Apis.pdb
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Google.Apis.xml
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Auth.pdb
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Auth.xml
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Core.pdb
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Core.xml
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Drive.v3.pdb
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Drive.v3.xml
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\bin\Debug\Newtonsoft.Json.xml
+E:\DOANCOSONGANH\HTQLGPVCD\GUI\obj\Debug\GUI.fBaoCao.resources
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\GUI.exe.config
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\GUI.exe
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\GUI.pdb
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\GUI.fBaoCao.resources
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\GUI.fCapNhatMatKhau.resources
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\GUI.fDangKyHoatDong.resources
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\GUI.fDangNhap.resources
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\GUI.fGiangVien.resources
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\GUI.fHoatDong.resources
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\GUI.fMinhChung.resources
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\GUI.fNguoiDung.resources
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\GUI.fQuanLyHoatDong.resources
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\GUI.fTaiKhoan.resources
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\GUI.fTrangChu.resources
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\RdlCompile.cache
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\RdlCompile.compiled
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\GUI.exe
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\GUI.pdb
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\BLL.dll
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\DTO.dll
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\EPPlus.dll
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\EPPlus.Interfaces.dll
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\EPPlus.System.Drawing.dll
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Auth.dll
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Core.dll
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Google.Apis.dll
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Drive.v3.dll
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Google.Apis.PlatformServices.dll
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Newtonsoft.Json.dll
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\DAL.dll
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\BLL.pdb
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\DTO.pdb
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\EPPlus.xml
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Google.Apis.pdb
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Google.Apis.xml
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Auth.pdb
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Auth.xml
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Core.pdb
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Core.xml
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Drive.v3.pdb
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Google.Apis.Drive.v3.xml
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Newtonsoft.Json.xml
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\DAL.pdb
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\Report1.rdlc
+E:\DOANCS\HTQLGPVCD\GUI\obj\Debug\GUI.fThongKeHoatDong.resources
+E:\DOANCS\HTQLGPVCD\GUI\bin\Debug\ThongKeHoatDong.rdlc
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\GUI.exe.config
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\GUI.exe
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\GUI.pdb
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\GUI.exe
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\GUI.pdb
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\BLL.dll
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\DTO.dll
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\EPPlus.dll
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\EPPlus.Interfaces.dll
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\EPPlus.System.Drawing.dll
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Google.Apis.Auth.dll
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Google.Apis.Core.dll
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Google.Apis.dll
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Google.Apis.Drive.v3.dll
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Google.Apis.PlatformServices.dll
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Newtonsoft.Json.dll
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\DAL.dll
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\BLL.pdb
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\DTO.pdb
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\EPPlus.xml
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Google.Apis.pdb
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Google.Apis.xml
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Google.Apis.Auth.pdb
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Google.Apis.Auth.xml
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Google.Apis.Core.pdb
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Google.Apis.Core.xml
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Google.Apis.Drive.v3.pdb
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Google.Apis.Drive.v3.xml
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Newtonsoft.Json.xml
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\DAL.pdb
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\GUI.fBaoCao.resources
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\GUI.fCapNhatMatKhau.resources
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\GUI.fDangKyHoatDong.resources
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\GUI.fDangNhap.resources
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\GUI.fGiangVien.resources
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\GUI.fHoatDong.resources
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\GUI.fMinhChung.resources
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\GUI.fNguoiDung.resources
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\GUI.fQuanLyHoatDong.resources
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\GUI.fTaiKhoan.resources
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\GUI.fThongKeHoatDong.resources
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\GUI.fTrangChu.resources
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\Guna.UI2.dll
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\RdlCompile.cache
+E:\DOANCS\HTQLGPVCD - Copy\GUI\obj\Debug\RdlCompile.compiled
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\ThongKeHoatDong.rdlc
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\ThongKeGiangVien.Designer.cs
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\ThongKeGiangVien.xsc
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\ThongKeGiangVien.xsd
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\ThongKeGiangVien.xss
+E:\DOANCS\HTQLGPVCD - Copy\GUI\bin\Debug\ThongKeGiangVien.rdlc
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\GUI.exe.config
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\GUI.exe
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\GUI.pdb
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\BLL.dll
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\DTO.dll
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\EPPlus.dll
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Google.Apis.Auth.dll
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Google.Apis.Core.dll
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Google.Apis.dll
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Google.Apis.Drive.v3.dll
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Google.Apis.PlatformServices.dll
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Guna.UI2.dll
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\DAL.dll
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\BLL.pdb
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\DTO.pdb
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\EPPlus.xml
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Google.Apis.pdb
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Google.Apis.xml
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Google.Apis.Auth.pdb
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Google.Apis.Auth.xml
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Google.Apis.Core.pdb
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Google.Apis.Core.xml
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Google.Apis.Drive.v3.pdb
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Google.Apis.Drive.v3.xml
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\DAL.pdb
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\GUI.fCapNhatMatKhau.resources
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\GUI.fDangNhap.resources
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\GUI.fGiangVien.resources
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\GUI.fHoatDong.resources
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\GUI.fMinhChung.resources
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\GUI.fNguoiDung.resources
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\GUI.fTrangChu.resources
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\GUI.fTaiKhoan.resources
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\GUI.exe
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\GUI.pdb
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\GUI.fThongKeGiangVien.resources
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\GUI.fThongKeTheoBoMon.resources
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\GUI.fThongKeTheoNamHoc.resources
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\RdlCompile.cache
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\RdlCompile.compiled
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\ThongKeGiangVien.rdlc
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\ThongKeTheoBoMon.rdlc
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\bin\Debug\ThongKeTheoNamHoc.rdlc
+D:\DOANCSN\COSONGANH\soft\HTQUANLYGIOPVCD\GUI\obj\Debug\GUI.fHoatDongTrangChu.resources
